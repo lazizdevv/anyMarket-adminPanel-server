@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$hpwV62V4HBOA4qwdi/BzB.DR2vgxP4vxALMteM0Ob0PjcI.ml041C",
+      "name": "Adminbek",
+      "id": 1,
+      "img": "https://i.pinimg.com/originals/6a/44/f0/6a44f0e35b10e6ed063eeebf7ed844f9.jpg"
+    }
+  ],
+  "category": [
+    {
+      "name": "Telivizorlar",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/B1NA6mAiwsmrVapt6VbrdvPPIllRV2EnjtNEuUvSPhHoZ2beOWGv616dhaKj.png",
+      "id": 1
+    },
+    {
+      "name": "Kampyuterlar",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/n4H7uKvN0pFwsYXSs66rsdUdHxGiRCWn8JVt9O0Qt1ecNl1fOEDJ7j0BHj81.png",
+      "id": 2
+    },
+    {
+      "name": "Kir yuvish mashinalari",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/yfGs0HUuX5wKnXwPbOyEswpZFzzGhmHdpptTriBTKm01HUxMqTBEg1QA2CQr.png",
+      "id": 3
+    },
+    {
+      "name": "Telefonlar",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/K83YTs4SqPeI3Ohx1lN0bDnbiV1Z9EnwZHMr2HsjIlDhmT48cBgn4C0Ve9Br.png",
+      "id": 4
+    },
+    {
+      "name": "Sport Jihozlari",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/D1UNIE2gMBYHkx9XQl452O6I2jtQOpD4kvhOWQCtr9fuPliQWVSAkN9YXjiQ.png",
+      "id": 5
+    },
+    {
+      "name": "Avto Jihozlar",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/xrGNIS4zILNfb5qMXC0nvDLo09QuwdrdXYEKqn7UOEI9PndrjYR1BNX6CQbA.png",
+      "id": 6
+    },
+    {
+      "name": "Kitoblar",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/bMNspthi79FTau9LHHWwROUmJxcI9s67zBhAw7hPxONfHOpouAPSz1XBmg0Q.png",
+      "id": 7
+    },
+    {
+      "name": "Mebel",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/adqzcIrhpWBLdv7My9MHp7DblhCNpQg2KkpsoeRQZdvKe5OR01jO2oXkKgcn.png",
+      "id": 8
+    },
+    {
+      "name": "Avtomobil",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/gH70607VBCkecOmaKnLQXlzHcwipHiBuvNKfXnAZcGnsQuQ0zv5Wom5lSykN.png",
+      "id": 9
+    },
+    {
+      "name": "Chet eldan tovarlar",
+      "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/rMtg5ExOxyyExZageLhA2AZ2CfgYYfkzqtZ5butpO8HCG1oFndTZAYFF8V4M.png",
+      "id": 10
+    }
+  ],
+  "products": [
+    {
+      "name": "Xiaomi Redmi Note 10",
+      "price": 15000,
+      "img": "https://olcha.uz/image/128x128/product/cdn_1/2024-05-28/5f7c5f3d-7e1b-4a6f-8b7b-8a1c9b1b8a4f.png",
+      "id": 1,
+      "categoryId": 4
+    },
+    {
+      "categoryId": "1",
+      "name": "TV",
+      "price": "400",
+      "img": "https://olcha.uz/image/266x266/products/cdn_1/supplier/stores/1/2024-07-02/4jFsWhJCgbvhCFGxGHzzTwoKo3MDFHLhYKCuX3mIDhweaRGW8V6ZUWqipGep.JPG",
+      "id": 2
+    },
+    {
+      "categoryId": "1",
+      "name": "TV2",
+      "price": "500",
+      "img": "https://olcha.uz/image/266x266/products/cdn_1/supplier/stores/1/2024-06-11/ctcIWSvr4ewVVINYDeixtNyQNIec2Wix9o4damnVrUmVWajcjONF8qfKiJRb.JPG",
+      "id": 3
+    },
+    {
+      "categoryId": "2",
+      "name": "PC",
+      "price": "45",
+      "img": "https://olcha.uz/image/266x266/products/cdn_1/supplier/stores/1/2024-08-01/3cnrOx8uFEydPi0ASUuAkBYXx8vI8nDbkT8hTwZt5q2eKY9nRfZeHwG2lpvI.jpg",
+      "id": 4
+    },
+    {
+      "name": "Premier 32PRM700S HD Smart",
+      "price": "134",
+      "img": "https://olcha.uz/image/220x220/products/2020-09-23/premier-32prm700s-hd-smart-17545-0.jpeg",
+      "categeory": [
+        {
+          "name": "Telivizorlar",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/B1NA6mAiwsmrVapt6VbrdvPPIllRV2EnjtNEuUvSPhHoZ2beOWGv616dhaKj.png",
+          "id": 1
+        },
+        {
+          "name": "Kampyuterlar",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/n4H7uKvN0pFwsYXSs66rsdUdHxGiRCWn8JVt9O0Qt1ecNl1fOEDJ7j0BHj81.png",
+          "id": 2
+        },
+        {
+          "name": "Kir yuvish mashinalari",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/yfGs0HUuX5wKnXwPbOyEswpZFzzGhmHdpptTriBTKm01HUxMqTBEg1QA2CQr.png",
+          "id": 3
+        },
+        {
+          "name": "Telefonlar",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/K83YTs4SqPeI3Ohx1lN0bDnbiV1Z9EnwZHMr2HsjIlDhmT48cBgn4C0Ve9Br.png",
+          "id": 4
+        },
+        {
+          "name": "Sport Jihozlari",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/D1UNIE2gMBYHkx9XQl452O6I2jtQOpD4kvhOWQCtr9fuPliQWVSAkN9YXjiQ.png",
+          "id": 5
+        },
+        {
+          "name": "Avto Jihozlar",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/xrGNIS4zILNfb5qMXC0nvDLo09QuwdrdXYEKqn7UOEI9PndrjYR1BNX6CQbA.png",
+          "id": 6
+        },
+        {
+          "name": "Kitoblar",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/bMNspthi79FTau9LHHWwROUmJxcI9s67zBhAw7hPxONfHOpouAPSz1XBmg0Q.png",
+          "id": 7
+        },
+        {
+          "name": "Mebel",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/adqzcIrhpWBLdv7My9MHp7DblhCNpQg2KkpsoeRQZdvKe5OR01jO2oXkKgcn.png",
+          "id": 8
+        },
+        {
+          "name": "Avtomobil",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/gH70607VBCkecOmaKnLQXlzHcwipHiBuvNKfXnAZcGnsQuQ0zv5Wom5lSykN.png",
+          "id": 9
+        },
+        {
+          "name": "Chet eldan tovarlar",
+          "img": "https://olcha.uz/image/128x128/category/cdn_1/2024-05-28/rMtg5ExOxyyExZageLhA2AZ2CfgYYfkzqtZ5butpO8HCG1oFndTZAYFF8V4M.png",
+          "id": 10
+        }
+      ],
+      "categoryId": "1",
+      "id": 5
+    }
+  ]
+}
